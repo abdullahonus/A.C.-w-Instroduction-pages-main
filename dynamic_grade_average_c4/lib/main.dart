@@ -1,3 +1,5 @@
+// ignore_for_file: unused_element
+
 import 'package:dynamic_grade_average_c4/widgetss/average_grade_page.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
@@ -22,7 +24,10 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
+////////////////////////////////////////////
+  ///follor For more ig: @Countrol4offical
+  ///@countrolfour@gmail.com
+////////////////////////////////////////////
 class OnBoardingPage extends StatefulWidget {
   @override
   _OnBoardingPageState createState() => _OnBoardingPageState();
