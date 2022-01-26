@@ -1,7 +1,7 @@
 # Average-Calculator
 This app for Calculate Average of Universty Student Lessons
 
-For more follor from ig: @Countrol4Offical
+For more follow from ig: @Countrol4Offical
 
 
 Run This Comments
